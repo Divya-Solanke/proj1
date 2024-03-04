@@ -3,7 +3,7 @@ import React from 'react'
 export const Heading = (props) => {
   return (
     <div>
-        Counter
+Counter
         <h1>{props.count}</h1>
     </div>
   )

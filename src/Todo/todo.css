@@ -1,0 +1,18 @@
+.b_todo_main {
+    height: 100vh;
+}
+.b_todo_main_container {
+    background: #333333;
+    padding: 50px 0px;
+    border-radius: 15px;
+}
+.b_sub_container {
+    width: 60%;
+    margin: auto;
+}
+.b_todo_form label {
+    font-size: 15px;
+}
+input:focus{
+    outline: none;
+}

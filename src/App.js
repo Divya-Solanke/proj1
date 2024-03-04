@@ -1,10 +1,11 @@
 import './App.css';
 import Counter from './Counter';
-  
+import {TodoMain} from "./TodoMain"
 
 function App () {
   return <>
-     <Counter/>
+     {/* <Counter/> */}
+     <TodoMain/>
   </>
 }
 export default App;
